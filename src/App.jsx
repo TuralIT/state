@@ -4,7 +4,7 @@ function App() {
 
   return (
     <>
-      Mövzu: <State></State>
+      Mövzu: State
     </>
   )
 }
