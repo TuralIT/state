@@ -1,10 +1,11 @@
-import './App.css'
+import Count from "./components/Count"
 
 function App() {
 
   return (
     <>
       Mövzu: State
+      <Count/>
     </>
   )
 }

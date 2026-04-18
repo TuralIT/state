@@ -53,6 +53,9 @@
 body {
   margin: 0;
 }
+button{
+  width: 100px;
+}
 
 #root {
   width: 1126px;
